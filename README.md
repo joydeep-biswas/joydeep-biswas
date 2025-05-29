@@ -8,9 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/joydeep-b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joydeep-b/" height="24" width="24" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/joydeep_biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/joydeep_biswas" height="24" width="24" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.leetcode.com/u/joydeep_biswas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/joydeep_biswas/" height="24" width="24" /></a>
+<a href="https://linkedin.com/in/joydeep-b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joydeep-b/" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.leetcode.com/u/joydeep_biswas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/joydeep_biswas/" height="26" width="26" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/profile/joydeep_biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/joydeep_biswas" height="28" width="28" /></a>
 </p>
 
 <!--
