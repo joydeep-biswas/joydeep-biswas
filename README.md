@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Joydeep Biswas
 
-<h4 align="left">I'm a backend developer focused on building robust, feature-rich applications primarily using Java, Spring Boot. I have experience developing REST APIs, Microservices, implementing business logic, and integrating complex systems to deliver end-to-end functionality. I have strong foundation in relational databases (Oracle, PostgreSQL), PLSQL and hands-on experience in ETL workflows and performance tuning, I enjoy translating requirements into scalable, production-ready features. I thrive in Agile teams, contributing clean, maintainable code and collaborating closely with cross-functional teams to ship impactful backend solutions.</h4>
+<h4 align="left">I'm a backend developer focused on building robust, feature-rich applications primarily using Java and Spring Boot. I have experience developing REST APIs, Microservices, implementing business logic, and integrating complex systems to deliver end-to-end functionality. With a strong foundation in relational databases (Oracle, PostgreSQL), PLSQL, and hands-on experience in ETL workflows and performance tuning, I enjoy translating requirements into scalable, production-ready features. I focus on writing clean, maintainable code and delivering reliable backend solutions that add real value.</h4>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
